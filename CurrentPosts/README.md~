@@ -1,0 +1,10 @@
+<strong>Introduction</strong><br/>
+This module can be used to list all the posts that have been posted on website in a Block region.
+
+<strong>How to Use</strong><br/>
+1. Copy CurrentPosts directory in your drupal file system. Its is recomended to keep all your custom moules in /sites/default/modules, or you can also copy this into /sites/all/modules
+2. Now enable CurrentPosts Module from the modules section.
+3. Go to Structure-> Blocks -> CurrentsPosts -> Set Location for Block.
+
+Thats It, Now you can see your module working on your website. 
+
