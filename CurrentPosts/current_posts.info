@@ -1,0 +1,11 @@
+;$Id$
+
+name = current_posts
+description = Just for testing purpose.
+package = Drupal 7 Development
+core = 7.x
+files[] = sec.module
+
+;dependencies[] = autoload
+;php = 5.2
+
